@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and AI.
 - 🌱 I’m currently learning on improving my knowledge on data structures.
 - 💞️ I’m looking to collaborate on any data structure-centered project!
-- 📫 How to reach me : sporgani@uh.edu or on linked in: https://www.linkedin.com/in/stephanieorganista/
+- 📫 How to reach me : sporgani@uh.edu or on LinkedIn: https://www.linkedin.com/in/stephanieorganista/
 
 <!---
 StephanieOrganista/StephanieOrganista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
